@@ -75,5 +75,4 @@ defmodule Calculator do
 
 end
 
-# To run the code, call the start function
 Calculator.start()
